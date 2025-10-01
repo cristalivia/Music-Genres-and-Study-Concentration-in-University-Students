@@ -5,7 +5,7 @@ This project explores the relationship between music genres and students’ conc
 
 - 164 survey responses from BINUS University students (B27), reduced to 161 valid entries.
 - Removed duplicates, irrelevant columns, and non-B27 responses.
--Visualized demographics, study habits, music preferences, and Likert-scale responses.
+- Visualized demographics, study habits, music preferences, and Likert-scale responses.
 - Normalized music genres, cleaned open-ended answers, and generated word clouds.
 - Explored relationships between concentration, motivation, stress reduction, and productivity.
   
@@ -23,7 +23,6 @@ This project explores the relationship between music genres and students’ conc
 - The analysis supports the idea that music can serve not just as entertainment but also as a study aid that improves concentration, emotional balance, and productivity. However, the effectiveness of music is beneficial for solo study, but less conclusive for collaborative learning.
 
 ## Tools & Frameworks 
-- Python: (Pandas, NumPy)
-- Visualization: (Matplotlib, Seaborn, WordCloud)
-- Text Preprocessing: NLTK
-- Feature extraction: TF-IDF (scikit-learn_
+- Programming & Data Handling: Python, Pandas, NumPy
+- Visualization: Matplotlib, Seaborn, WordCloud
+- Text Processing & NLP: NLTK (Indonesian stopwords), Scikit-learn (TF-IDF Vectorizer)
